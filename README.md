@@ -6,3 +6,5 @@
 * primo punto
 * secondo punto
   
+Welcome to my first repository.  
+My name is Cristian. I’m learning how to use GitHub!
