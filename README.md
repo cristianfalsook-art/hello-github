@@ -8,3 +8,4 @@
   
 Welcome to my first repository.  
 My name is Cristian. I’m learning how to use GitHub!
+Clicca sull’icona a forma di matita (✏️) per modificare il file.
